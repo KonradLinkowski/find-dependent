@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "find-dependent",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "find-dependent": "./index.js"
+  },
+  "dependencies": {
+    "json-colorizer": "^2.2.2",
+    "meow": "^11.0.0"
+  }
+}
